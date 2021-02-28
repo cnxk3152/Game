@@ -1,0 +1,4 @@
+UE4.23/Engine/Config/BaseEngine.ini
+[installedderiveddatabackendgraph]
+path="%GAMEDIR%DerivedDataCache"
+修改相应版本文件后，项目的缓存路径会在项目的根目录创建，不会在c盘创建
